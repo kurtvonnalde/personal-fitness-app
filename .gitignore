@@ -11,3 +11,8 @@ obj/
 
 # OS
 .DS_Store
+
+# dotnet
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
