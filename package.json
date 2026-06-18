@@ -1,0 +1,8 @@
+{
+  "name": "fitness-ai-monorepo",
+  "private": true,
+  "scripts": {
+    "start:mobile": "cd apps/mobile && npm start",
+    "start:api": "cd apps/api/FitnessAI.Api && dotnet run"
+  }
+}
